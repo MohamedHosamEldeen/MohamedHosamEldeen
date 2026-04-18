@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Mohamed Hossam  
+### AI Engineer | Data Scientist | Machine Learning Enthusiast  
 
-<!--
-**MohamedHosamEldeen/MohamedHosamEldeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Based in Egypt 🇪🇬  
+🔍 Passionate about solving problems with data & intelligent models  
+💻 Strong background in Python, C, Java  
+🚀 Building projects in Machine Learning, Data Science & AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Technologies
+
+- 🐍 Python  
+- 🤖 Machine Learning  
+- 🧠 Deep Learning  
+- 📊 Data Analysis  
+- 📈 Pandas & NumPy  
+- 🔬 Scikit-Learn  
+- 🔥 TensorFlow / PyTorch  
+- ☕ Java  
+- 💻 C  
+
+---
+
+## 🚀 About Me
+
+- 💡 I build **data-driven solutions** to real-world problems  
+- 📊 I enjoy extracting insights from data  
+- 🧠 Interested in AI research & model development  
+- 🤝 Open for collaboration & internships  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-hosam-eldeen-5ba187291  
+- 📧 Email: medohosam307@gmail.com
