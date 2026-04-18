@@ -18,7 +18,7 @@
 - 🔬 Scikit-Learn  
 - 🔥 TensorFlow / PyTorch  
 - ☕ Java  
-- 💻 C  
+- 💻 C++  
 
 ---
 
